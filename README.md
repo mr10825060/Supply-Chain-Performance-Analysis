@@ -1,18 +1,18 @@
-# 🚚 Supply Chain Delivery Performance Analysis
+#  Supply Chain Delivery Performance Analysis
 
-## 📌 Brief One-Line Summary
+##  Brief One-Line Summary
 A data science project that analyzes global e-commerce delivery operations to identify causes of late deliveries and build a predictive model for shipment delay prediction.
 
 ---
 
-## 📊 Overview
+##  Overview
 This project focuses on analysing end-to-end supply chain and order fulfillment performance for a global e-commerce company. The goal is to understand why more than half of the orders are delivered late and to develop data-driven solutions for improving delivery efficiency, customer satisfaction, and profitability.
 
 The analysis covers **172,765 orders** across multiple regions from **2015 to 2018**.
 
 ---
 
-## ❗ Problem Statement
+##  Problem Statement
 The company is facing a major issue where a large percentage of orders are not delivered within the promised time. This is leading to:
 - Poor customer experience  
 - Loss of trust  
@@ -26,7 +26,7 @@ The objective is to:
 
 ---
 
-## 📂 Dataset
+## Dataset
 - Total Records: 172,765 orders  
 - Time Period: January 2015 – January 2018  
 - Key Features:
@@ -41,7 +41,7 @@ The objective is to:
 
 ---
 
-## 🛠 Tools and Technologies
+## Tools and Technologies
 - Python  
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
@@ -51,7 +51,7 @@ The objective is to:
 
 ---
 
-## 🔍 Methods
+## Methods
 - Data Cleaning and Preprocessing  
 - Exploratory Data Analysis (EDA)  
 - Feature Engineering (time-based features, encoding)  
@@ -62,7 +62,7 @@ The objective is to:
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 - **54.71% of orders are delivered late**
 - First Class shipping shows extremely high delay rates
 - Delay issue is **system-wide**, not region-specific
@@ -73,7 +73,7 @@ The objective is to:
 
 ---
 
-## 📈 Dashboard / Model / Output
+##  Dashboard / Model / Output
 - Interactive analysis of delay distribution across:
   - Shipping Mode  
   - Region  

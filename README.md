@@ -1,6 +1,6 @@
 #  Supply Chain Delivery Performance Analysis
 
-##  Brief One-Line Summary
+##  Summary
 A data science project that analyzes global e-commerce delivery operations to identify causes of late deliveries and build a predictive model for shipment delay prediction.
 
 ---

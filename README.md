@@ -93,5 +93,24 @@ The objective is to:
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/your-username/supply-chain-analysis.git
-cd supply-chain-analysisem:
+
+2. Install the required libraries
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn jupyter
+```
+
+3. Open Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+4. Open the notebook file:
+
+```bash
+Supply_Chain_analysis.ipynb
+```
+
+5. Run all cells sequentially to reproduce the analysis, visualizations, and machine learning model results.
+
